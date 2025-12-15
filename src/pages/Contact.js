@@ -16,8 +16,8 @@ const Contact = () => (
         <span className="contact-icon">📱</span>
         <div>
           <strong>Follow Us</strong><br />
-          <a href="https://instagram.com/peeo.in" target="_blank" rel="noopener noreferrer" className="contact-link">@peeo.in on Instagram</a><br />
-          <a href="https://facebook.com/peeo.in" target="_blank" rel="noopener noreferrer" className="contact-link">@peeo.in on Facebook</a>
+          <a href="https://instagram.com/peeo.official" target="_blank" rel="noopener noreferrer" className="contact-link">@peeo.official on Instagram</a><br />
+          <a href="https://facebook.com/peeo.official" target="_blank" rel="noopener noreferrer" className="contact-link">@peeo.official on Facebook</a>
           {/* Add more social links as needed */}
         </div>
       </div>
