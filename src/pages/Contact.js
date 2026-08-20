@@ -25,8 +25,8 @@ const Contact = () => (
           <h3>Follow Us</h3>
           <p>Join our community for updates & vibes</p>
           <div className="social-links">
-            <a href="https://instagram.com/peeo.official" target="_blank" rel="noopener noreferrer" className="social-link">
-              Instagram @peeo.official
+            <a href="https://instagram.com/peeo.in" target="_blank" rel="noopener noreferrer" className="social-link">
+              Instagram @peeo.in
             </a>
             <a href="https://facebook.com/peeo.official" target="_blank" rel="noopener noreferrer" className="social-link">
               Facebook @peeo.official
