@@ -9,7 +9,7 @@ const Products = () => {
     {
       id: 1,
       name: 'Cherry Lime Splash',
-      price: '₹299',
+      price: '₹99',
       flavor: 'citrus',
       description: 'Tangy cherry meets zesty lime for a refreshing burst of summer in every sip.',
       image: './images/orange.jpg',
@@ -18,7 +18,7 @@ const Products = () => {
     {
       id: 2,
       name: 'Strawberry Breeze',
-      price: '₹279',
+      price: '₹109',
       flavor: 'berry',
       description: 'Light and airy with fresh strawberry essence and a hint of mint.',
       image: './images/berry.jpg',
@@ -27,7 +27,7 @@ const Products = () => {
     {
       id: 3,
       name: 'Tropical Fusion',
-      price: '₹319',
+      price: '₹99',
       flavor: 'tropical',
       description: 'Pineapple, mango, and coconut dancing together in perfect harmony.',
       image: './images/blue-iced.jpg',
@@ -36,7 +36,7 @@ const Products = () => {
     {
       id: 4,
       name: 'Citrus Immune Booster',
-      price: '₹289',
+      price: '₹80',
       flavor: 'citrus',
       description: 'Orange, ginger, and turmeric for a healthy, zesty pick-me-up.',
       image: './images/orange.jpg',
@@ -45,7 +45,7 @@ const Products = () => {
     {
       id: 5,
       name: 'Berry Bliss',
-      price: '₹299',
+      price: '₹109',
       flavor: 'berry',
       description: 'Mixed berries with a touch of basil for an unexpected twist.',
       image: './images/berry.jpg',
@@ -54,7 +54,7 @@ const Products = () => {
     {
       id: 6,
       name: 'Summer Cup',
-      price: '₹269',
+      price: '₹109',
       flavor: 'tropical',
       description: 'Classic summer flavors with cucumber and elderflower notes.',
       image: './images/blue-lagoon.jpg',
